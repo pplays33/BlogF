@@ -89,3 +89,30 @@ a{
     margin-bottom: 25px;
     line-height: 30px;
 }
+
+/* start page.html style*/
+
+.p2{
+    max-width: 500px;
+    font-size: 20px;
+}
+.p3{
+    font-family: 'Lunasima', sans-serif;
+    font-size: 20px;
+}
+.article{
+    padding-top: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    line-height: 30px;
+}
+.container-titel-article{
+    width: 1200px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+}
+.titel-article{  
+    font-size: 34px;  
+}
